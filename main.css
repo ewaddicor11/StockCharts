@@ -1,0 +1,36 @@
+p {
+  display: inline;
+}
+li{
+  list-style: none;
+}
+ul{
+  padding: 0px;
+  margin: 0px;
+}
+.graph_side_bar p{
+  display: inline-block;
+  width: 120px;
+}
+body {
+  padding: 10px
+}
+button{
+  display:block;
+  width: 10em;
+}
+
+div.form-group {
+  display: inline-block;
+  margin-left: 5em;
+}
+
+#eraser{
+  background-color: pink;
+  color: black;
+}
+
+#drawing{
+  background-color: black;
+  color: white;
+}
